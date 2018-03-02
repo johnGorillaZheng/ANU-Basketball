@@ -3,13 +3,13 @@
 ---
 ## Content
 ---
-1. [Project Purpose](1-Project-Purpose)
-2. [Stakeholders](#2-Stakeholders)
-3. [How our Project will Make Things Better to Clients](#3-How-our-Project-will-Make-Things-Better-to-Clients)
-4. [Milestone, Scheduling and Deliverables](#4-Milestone-Scheduling-and-Deliverables)
-5. [Technology and Enviroment](#5-Technology-and-Enviroment)
-6. [Resources, Risks and Costs](#6-Resources-Risks-and-Costs)
-7. [Decision Making](#7-Decision-Making)
+1. [Project Purpose](#1-project-purpose)
+2. [Stakeholders](#2-stakeholders)
+3. [How our Project will Make Things Better to Clients](#3-how-our-project-will-make-things-better-to-clients)
+4. [Milestone, Scheduling and Deliverables](#4-milestone-scheduling-and-deliverables)
+5. [Technology and Enviroment](#5-technology-and-enviroment)
+6. [Resources, Risks and Costs](#6-resources-risks-and-costs)
+7. [Decision Making](#7-decision-making)
 ---
 
 ## 1. Project-Purpose
