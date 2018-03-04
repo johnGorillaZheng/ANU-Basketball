@@ -21,18 +21,17 @@ Building up a dynamic website, which shows team lists, draw and results, is the 
 
 <br/><br/>
 ## 2. Stakeholders
-1. Who are stakeholders
-2. Stakeholders’ Expectations
-3. How we interact with them
-
-
-
-
+Stakeholder: ANU Sport, ANU Basketball club
+Expectations: 
+   * The product should be a dynamic website including team lists, draw, and results which can be automacally generated.
+   * The product shoud be easily maintained in the future.
+   * The product should meet the requirements of safety and stability.
+   * The product needs a good user experience. Here are some [user stories](https://drive.google.com/open?id=1-XtHVo89-OzaVYDgaL1F7XTA3fAdNQBD2rQPN3RXDwA).
 
 <br/><br/>
 
 ## 3. How our Project will Make Things Better to Clients
-1. We are using agile methodology. Every Thursday, we hold a meeting at law library from 5pm to 7pm. During the meeting, we talk about what we have done, what we need to do in next week and what difficulty we have. The client is also our team leader so it is easy for us to keep in touch with the client.
+1. We are using agile methodology. Every Thursday, we hold a meeting at law library from 5pm to 7pm. During the meeting, we talk about what we have done, what we need to do in next week and what difficulty we have. The client is also our team leader so it is easy for us to keep in touch with the client. Here is our [meeting minute](https://drive.google.com/open?id=1Ekg1O5Acb_g2y87SDB_Z-pxx__NzhAZZ).
 
 
 2. Each sprint will last 1 week and we divide this process into four parts: Sprint planning, Sprint, review and retrospective. During sprint planning, the team pulls a small chunk from the top of that wish list, a sprint backlog, and decides how to implement those pieces. In each sprint, the team focuse on its goal and the sprint ends with a sprint review and retrospective.
@@ -107,7 +106,7 @@ Initial long term plan for the website development
 
 <br/><br/>
 ## 6. Resources, Risks and Costs
-The main resources we required so far are all kinds of learning tutorial of Java Spring and some other learning tutorial on developing website. This is easy to find via the internet, for example Youtube. Besides, some team member has some relevant experience on doing website, which can also be very helpful for managing those learning resources and make the team be familar with the development technologies as soon as possible.
+The main resources we required so far are all kinds of learning tutorial of Java Spring and some other learning tutorial on developing website. This is easy to find via the internet, for example Youtube. Besides, some team member has some relevant experience on doing website, which can also be very helpful for managing those learning resources and make the team be familar with the development technologies as soon as possible. Here is our [resource document](https://drive.google.com/open?id=1-VoXn1IPGSrPytOsw-ly2gAWar1iFFfgd6GUr93uxa0).
 
 The main risks on doing this project is that neither the client nor we have the server or other online cloud services to deploy our project. The development team and our client are still seeking for possible solutions on deploying the final dynamic website. So far, we could only use some VPS which privately belong to the team member for doing some basic test. However, finding and getting familiar with one suitable platform which can hold the website for a long time is still one long term mission to accomplish. Once we decide which server to use, the cost of the server may be the main cost of our project. 
 
