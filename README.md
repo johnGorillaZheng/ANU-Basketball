@@ -73,7 +73,8 @@ Building up a dynamic website, which shows team lists, draw and results, is the 
 
 ## 4. MileStone, Scheduling and Deliverables
 Initial plan of our project for this semester
-|Event|Release Time|Deliverables| 
+
+|Event|Release Time|Deliverables|
 |:---:|:---:|:---:|
 |All requirements gathered|week 3|User stories list and requirements specification|
 |User interface prototype designed|week 4|Wireframes for all potential web pages|
@@ -82,8 +83,9 @@ Initial plan of our project for this semester
 |The test for the whole system finished|End of 1st semester|Test cases for the whole system|
 |Minimum viable product finished|End of 1st semester|The website which include basic functions|
 
-<br></br>
+<br/>
 Initial long term plan for the website development
+
 |Version|Release Time|website functions|
 |:---:|:---:|:---:|
 |MVP|End of the 1st semester|Register/login, insert/delete/update requried data, view all requested data etc.|
