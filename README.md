@@ -91,6 +91,7 @@ Initial long term plan for the website development
 |MVP|End of the 1st semester|Register/login, insert/delete/update requried data, view all requested data etc.|
 |Version 1.0|Midbreak of the 2nd semester|Fixing the potential bugs of MVP, improved user experience |
 |Version 2.0|End of the 2nd semester|Tracking the updated requriements for the system|
+
 <br/><br/>
 ## 5. Technology and Enviroment
 |Tools and Technologies(temporary)|function|
