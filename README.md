@@ -28,11 +28,10 @@ Building up a dynamic website, which shows team lists, draw and results, is the 
 
 
 
----
+
 <br/><br/>
 
 ## 3. How our Project will Make Things Better to Clients
----
 1. We are using agile methodology. Every Thursday, we hold a meeting at law library from 5pm to 7pm. During the meeting, we talk about what we have done, what we need to do in next week and what difficulty we have. The client is also our team leader so it is easy for us to keep in touch with the client.
 
 
@@ -64,7 +63,7 @@ Building up a dynamic website, which shows team lists, draw and results, is the 
 <br/><br/>
 
 ## 4. MileStone, Scheduling and Deliverables
-
+<br/><br/>
 ## 5. Technology and Enviroment
 |Tools and Technologies(temporary)|function|
 |:---|:---|
@@ -77,11 +76,11 @@ Building up a dynamic website, which shows team lists, draw and results, is the 
 |MySQL|For database|
 |JQuery|For front-end| 
 
-
+<br/><br/>
 ## 6. Resources, Risks and Costs
-
+<br/><br/>
 ## 7. Decision Making
-
+[Decision making log](https://docs.google.com/spreadsheets/d/1M3sSftQ5GxgKDY0IM-hH6L0-IVLrtGZwXtmq-A6GP4A/edit?usp=sharing)
 
 
 
