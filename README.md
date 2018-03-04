@@ -45,7 +45,16 @@ Building up a dynamic website, which shows team lists, draw and results, is the 
    * Done: Passed quality check, ready to be shipped! No more edits or reviews necessary, it’s scheduled and ready for action.
    * Blocked: When something is preventing the team from completing a task (maybe we need to purchase something first), we move it to “Blocked”, along with a comment about what the blocker is.
    
-   Every team member can move the card in Scrum Board. For example, when someone starts a task in ‘To Do’ list, he can move this card from ‘To Do’ to ‘Doing’.
+    Every team member can move the card in Scrum Board. For example, when someone starts a task in ‘To Do’ list, he can move this card from ‘To Do’ to ‘Doing’.
+
+
+4. Teams meet (online or in person) every day to give progress updates in the Daily Scrum. We have a Scrum Master who asks 3 questions on Slack everyday:
+   * What did you do today? 
+   * What will you do tomorrow? 
+   * Are there any impediments in your way?
+   
+   Every team member answer these 3 questions before 9pm everyday. If any team member has impediments, we will help him out. You can see it [here](https://drive.google.com/open?id=1p2Q9mtxwZO3g238WM5569rceUY5auysUqejwh20k_4M).
+
 
 ### Team Information
 ---
@@ -58,7 +67,7 @@ Building up a dynamic website, which shows team lists, draw and results, is the 
 |Zixuan Zheng|database design, develop back-end, test|
 |Zihao Liu|database design, develop back-end, test|
 
-[Details](https://docs.google.com/document/d/1VLx9iI4c3bB1yFO3E_3bc15e2s5xIrJ1lX7Topq2ft0/edit?usp=sharing)
+[Details](https://drive.google.com/open?id=1VLx9iI4c3bB1yFO3E_3bc15e2s5xIrJ1lX7Topq2ft0)
 
 <br/><br/>
 
@@ -68,7 +77,7 @@ Building up a dynamic website, which shows team lists, draw and results, is the 
 |Tools and Technologies(temporary)|function|
 |:---|:---|
 |Slack|Formal Communication| |
-|[Google drive](https://drive.google.com/drive/folders/1IYIhrGfbP5w2grQaXwNptR1yfGbtUQgZ?usp=sharing)|Sharing and saving documentations|
+|[Google drive](https://drive.google.com/open?id=1IYIhrGfbP5w2grQaXwNptR1yfGbtUQgZ)|Sharing and saving documentations|
 |[Github](https://github.com/Zihao-Liu/ANU-Basketball)|Source code and Landing page|
 |Trello|For agile management|
 |Wireframe|For drawing prototype|
@@ -80,7 +89,7 @@ Building up a dynamic website, which shows team lists, draw and results, is the 
 ## 6. Resources, Risks and Costs
 <br/><br/>
 ## 7. Decision Making
-[Decision making log](https://docs.google.com/spreadsheets/d/1M3sSftQ5GxgKDY0IM-hH6L0-IVLrtGZwXtmq-A6GP4A/edit?usp=sharing)
+[Decision making log](https://drive.google.com/open?id=1M3sSftQ5GxgKDY0IM-hH6L0-IVLrtGZwXtmq-A6GP4A)
 
 
 
