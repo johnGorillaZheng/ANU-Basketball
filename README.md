@@ -72,6 +72,23 @@ Building up a dynamic website, which shows team lists, draw and results, is the 
 <br/><br/>
 
 ## 4. MileStone, Scheduling and Deliverables
+Initial plan of our project for this semester
+|Event|Release Time|Deliverables| 
+|:---:|:---:|:---:|
+|All requirements gathered|week 3|User stories list and requirements specification|
+|User interface prototype designed|week 4|Wireframes for all potential web pages|
+|Backend designed|week 4|Backend design report, Backend Interface specifications, Database ER diagram etc.|
+|All critical code finished|week 10 ~ week 11|The code for the system|
+|The test for the whole system finished|End of 1st semester|Test cases for the whole system|
+|Minimum viable product finished|End of 1st semester|The website which include basic functions|
+
+<br></br>
+Initial long term plan for the website development
+|Version|Release Time|website functions|
+|:---:|:---:|:---:|
+|MVP|End of the 1st semester|Register/login, insert/delete/update requried data, view all requested data etc.|
+|Version 1.0|Midbreak of the 2nd semester|Fixing the potential bugs of MVP, improved user experience |
+|Version 2.0|End of the 2nd semester|Tracking the updated requriements for the system|
 <br/><br/>
 ## 5. Technology and Enviroment
 |Tools and Technologies(temporary)|function|
@@ -87,6 +104,10 @@ Building up a dynamic website, which shows team lists, draw and results, is the 
 
 <br/><br/>
 ## 6. Resources, Risks and Costs
+The main resources we required so far are all kinds of learning tutorial of Java Spring and some other learning tutorial on developing website. This is easy to find via the internet, for example Youtube. Besides, some team member has some relevant experience on doing website, which can also be very helpful for managing those learning resources and make the team be familar with the development technologies as soon as possible.
+
+The main risks on doing this project is that neither the client nor we have the server or other online cloud services to deploy our project. The development team and our client are still seeking for possible solutions on deploying the final dynamic website. So far, we could only use some VPS which privately belong to the team member for doing some basic test. However, finding and getting familiar with one suitable platform which can hold the website for a long time is still one long term mission to accomplish. Once we decide which server to use, the cost of the server may be the main cost of our project. 
+
 <br/><br/>
 ## 7. Decision Making
 [Decision making log](https://drive.google.com/open?id=1M3sSftQ5GxgKDY0IM-hH6L0-IVLrtGZwXtmq-A6GP4A)
