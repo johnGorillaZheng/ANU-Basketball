@@ -9,7 +9,7 @@
 6. [Resources, Risks and Costs](#6-resources-risks-and-costs)
 7. [Decision Making](#7-decision-making)
 
-
+<br/><br/>
 ## 1. Project-Purpose
 The purpose of this project is to change the existing static ANU basketball website to a dynamic website which can automatically generate the competition information. 
 
@@ -54,17 +54,17 @@ Expectations:
    
    Every team member answer these 3 questions before 9pm everyday. If any team member has impediments, we will help him out. You can see it [here](https://drive.google.com/open?id=1p2Q9mtxwZO3g238WM5569rceUY5auysUqejwh20k_4M).
 
-
+<br/><br/>
 ### Team Information
 ---
-|Name|Role(temporary)|
-|:---:|:---:|
-|Noah Johnstone|Manage project, communicate to client, collect requirements|
-|Zhongyan Lou|taking minutes, organising documentation, landing page|
-|Rui Zheng|prototype design, UI design, develop front-end|
-|Shanbin Wang|prototype design, UI design, develop front-end|
-|Zixuan Zheng|database design, develop back-end, test|
-|Zihao Liu|database design, develop back-end, test|
+|Name|Role and Tasks(temporary)|
+|:---:|:---|
+|Noah Johnstone|Schedule and scope of the project, Communicate to stakeholders, Collect requirements, Design prototype|
+|Zhongyan Lou|Take minutes, Organise documentation, Prepare landing page|
+|Rui Zheng|Design prototype, Design UI , Develop front-end|
+|Shanbin Wang|Collect requirement, Design UI, Develop front-end|
+|Zixuan Zheng|Database design, Develop back-end, Test, QA Leader|
+|Zihao Liu|Database design, Develop back-end, Test, Scrum master|
 
 [Details](https://drive.google.com/open?id=1VLx9iI4c3bB1yFO3E_3bc15e2s5xIrJ1lX7Topq2ft0)
 
@@ -99,7 +99,7 @@ Initial long term plan for the website development
 |[Google drive](https://drive.google.com/open?id=1IYIhrGfbP5w2grQaXwNptR1yfGbtUQgZ)|Sharing and saving documentations|
 |[Github](https://github.com/Zihao-Liu/ANU-Basketball)|Source code and Landing page|
 |Trello|For agile management|
-|Wireframe|For drawing prototype|
+|Wireframe & PowerPoint|For drawing prototype|
 |Java & Spring|For back-end|
 |MySQL|For database|
 |JQuery|For front-end| 
