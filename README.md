@@ -112,6 +112,7 @@ The main risks on doing this project is that neither the client nor we have the 
 
 <br/><br/>
 ## 7. Decision Making
+Every team member was involved in decision making. We made decisions in meetings or online (like in Slack, in Wechat, and doodle poll). We have created a Decision Making File and there is the link below:
 [Decision making log](https://drive.google.com/open?id=1M3sSftQ5GxgKDY0IM-hH6L0-IVLrtGZwXtmq-A6GP4A)
 
 
