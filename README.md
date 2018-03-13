@@ -9,7 +9,7 @@
 6. [Resources, Risks and Costs](#6-resources-risks-and-costs)
 7. [Decision Making](#7-decision-making)
 
-
+<br/><br/>
 ## 1. Project-Purpose
 The purpose of this project is to change the existing static ANU basketball website to a dynamic website which can automatically generate the competition information. 
 
@@ -21,18 +21,17 @@ Building up a dynamic website, which shows team lists, draw and results, is the 
 
 <br/><br/>
 ## 2. Stakeholders
-1. Who are stakeholders
-2. Stakeholders’ Expectations
-3. How we interact with them
-
-
-
-
+Stakeholder: ANU Sport, ANU Basketball club
+Expectations: 
+   * The product should be a dynamic website including team lists, draw, and results which can be automacally generated.
+   * The product shoud be easily maintained in the future.
+   * The product should meet the requirements of safety and stability.
+   * The product needs a good user experience. Here are some [user stories](https://drive.google.com/open?id=1-XtHVo89-OzaVYDgaL1F7XTA3fAdNQBD2rQPN3RXDwA).
 
 <br/><br/>
 
 ## 3. How our Project will Make Things Better to Clients
-1. We are using agile methodology. Every Thursday, we hold a meeting at law library from 5pm to 7pm. During the meeting, we talk about what we have done, what we need to do in next week and what difficulty we have. The client is also our team leader so it is easy for us to keep in touch with the client.
+1. We are using agile methodology. Every Thursday, we hold a meeting at law library from 5pm to 7pm. During the meeting, we talk about what we have done, what we need to do in next week and what difficulty we have. The client is also our team leader so it is easy for us to keep in touch with the client. Here is our [meeting minute](https://drive.google.com/open?id=1Ekg1O5Acb_g2y87SDB_Z-pxx__NzhAZZ).
 
 
 2. Each sprint will last 1 week and we divide this process into four parts: Sprint planning, Sprint, review and retrospective. During sprint planning, the team pulls a small chunk from the top of that wish list, a sprint backlog, and decides how to implement those pieces. In each sprint, the team focuse on its goal and the sprint ends with a sprint review and retrospective.
@@ -55,17 +54,17 @@ Building up a dynamic website, which shows team lists, draw and results, is the 
    
    Every team member answer these 3 questions before 9pm everyday. If any team member has impediments, we will help him out. You can see it [here](https://drive.google.com/open?id=1p2Q9mtxwZO3g238WM5569rceUY5auysUqejwh20k_4M).
 
-
+<br/><br/>
 ### Team Information
 ---
-|Name|Role(temporary)|
-|:---:|:---:|
-|Noah Johnstone|Manage project, communicate to client, collect requirements|
-|Zhongyan Lou|taking minutes, organising documentation, landing page|
-|Rui Zheng|prototype design, UI design, develop front-end|
-|Shanbin Wang|prototype design, UI design, develop front-end|
-|Zixuan Zheng|database design, develop back-end, test|
-|Zihao Liu|database design, develop back-end, test|
+|Name|Role and Tasks(temporary)|
+|:---:|:---|
+|Noah Johnstone|Schedule and scope of the project, Communicate to stakeholders, Collect requirements, Design prototype|
+|Zhongyan Lou|Take minutes, Organise documentation, Prepare landing page|
+|Rui Zheng|Design prototype, Design UI , Develop front-end|
+|Shanbin Wang|Collect requirement, Design UI, Develop front-end|
+|Zixuan Zheng|Database design, Develop back-end, Test, QA Leader|
+|Zihao Liu|Database design, Develop back-end, Test, Scrum master|
 
 [Details](https://drive.google.com/open?id=1VLx9iI4c3bB1yFO3E_3bc15e2s5xIrJ1lX7Topq2ft0)
 
@@ -100,19 +99,20 @@ Initial long term plan for the website development
 |[Google drive](https://drive.google.com/open?id=1IYIhrGfbP5w2grQaXwNptR1yfGbtUQgZ)|Sharing and saving documentations|
 |[Github](https://github.com/Zihao-Liu/ANU-Basketball)|Source code and Landing page|
 |Trello|For agile management|
-|Wireframe|For drawing prototype|
+|Wireframe & PowerPoint|For drawing prototype|
 |Java & Spring|For back-end|
 |MySQL|For database|
 |JQuery|For front-end| 
 
 <br/><br/>
 ## 6. Resources, Risks and Costs
-The main resources we required so far are all kinds of learning tutorial of Java Spring and some other learning tutorial on developing website. This is easy to find via the internet, for example Youtube. Besides, some team member has some relevant experience on doing website, which can also be very helpful for managing those learning resources and make the team be familar with the development technologies as soon as possible.
+The main resources we required so far are all kinds of learning tutorial of Java Spring and some other learning tutorial on developing website. This is easy to find via the internet, for example Youtube. Besides, some team member has some relevant experience on doing website, which can also be very helpful for managing those learning resources and make the team be familar with the development technologies as soon as possible. Here is our [resource document](https://drive.google.com/open?id=1-VoXn1IPGSrPytOsw-ly2gAWar1iFFfgd6GUr93uxa0).
 
 The main risks on doing this project is that neither the client nor we have the server or other online cloud services to deploy our project. The development team and our client are still seeking for possible solutions on deploying the final dynamic website. So far, we could only use some VPS which privately belong to the team member for doing some basic test. However, finding and getting familiar with one suitable platform which can hold the website for a long time is still one long term mission to accomplish. Once we decide which server to use, the cost of the server may be the main cost of our project. 
 
 <br/><br/>
 ## 7. Decision Making
+Every team member was involved in decision making. We made decisions in meetings or online (like in Slack, in Wechat, and doodle poll). We have created a Decision Making File and there is the link below:
 [Decision making log](https://drive.google.com/open?id=1M3sSftQ5GxgKDY0IM-hH6L0-IVLrtGZwXtmq-A6GP4A)
 
 
