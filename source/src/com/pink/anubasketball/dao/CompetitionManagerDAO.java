@@ -1,7 +1,7 @@
 package com.pink.anubasketball.dao;
 
-import com.pink.anubasketball.bean.CompetitionManagerDO;
+import com.pink.anubasketball.bean.CompetitionManager;
 
 public interface CompetitionManagerDAO {
-    public CompetitionManagerDO getManagerByUserName(String userName);
+    public CompetitionManager getManagerByUserName(String userName);
 }
