@@ -11,6 +11,11 @@ So far, we have gathered all user requirements from our client, and finish some 
 ## 2. Technical artefacts
 1. Coding environment set up
 We use java and relevant tenology to develop our website. Since most of the team members are still learning java web development, we decide use the basic JSP + Servlet techniques to develop our website and use the other advanced framework like Spring MVC in the future to optimize our code. So we set up one most basic coding package for our development which has already been seen in this repository.
+   
+   Tentative website: https://anubasketball.azurewebsites.net/ANUBasketball/
+   
+   Source code: https://github.com/Zihao-Liu/ANU-Basketball/tree/master/source
+
 2. Database Design -- ER diagram and DDL
 During the week 3 - 4, we spent our weekly meeting time to discuss about the structure of the database of our system. Since the system has lots of roles of users, we spent much energy to figure out the relationship between each of those. Finally, we came up with the [ER diagram](https://drive.google.com/open?id=1g7MCTPH4SlfDd-jZO8KmHQRD2yHxaGJi) and the [DDL](https://drive.google.com/open?id=1W4d1lYUqAocgBWZjAKJz6IAubUzfs7Va) to set up our database environment. This slides show how we run our discussion: [slides](https://drive.google.com/open?id=1aMd22UqM3z40_6MKiBZnILnb2l_NT9hs)
 
