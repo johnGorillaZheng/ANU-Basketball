@@ -4,6 +4,7 @@
 1. [Value delivered to client](#1-value-delivered-to-client)
 2. [Technical artefacts](#2-technical-artefacts)
 3. [Relevant documentation](#3-relevant-documentation)
+4. [Decision Making](#7-decision-making)
 <br/><br/>
 ## 1. Value delivered to client
 So far, we have gathered all user requirements from our client, and finish some basic design work (prototype and database). Since the project is still in the beginning state and we are still dealing with some basic problem like some ensuring what our client really wants and studying some relevant programming techniques. Although we have outputs lots of documentation and some technical artefact like some professional graph which would definitely guide the future development work, what we deliver to client is just illusrate that the team is in our progress and would finish each item in time as our plan has listed, so that our client would clearly know that his project can be done well and in time.
