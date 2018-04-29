@@ -23,15 +23,18 @@ public class CompetitionManagerController {
     @Autowired
     private CompetitionManager competitionManager;
     
+    @Autowired
+    private CompetitionManager manager;
+    
     @RequestMapping(value="/signIn",method = RequestMethod.POST)
     public String signIn(HttpServletRequest request) {
         String username=request.getParameter("email");
         String password = request.getParameter("password");
-        competitionManager = competitionManagerServiceImpl.signIn(username, password);
+        manager = competitionManagerServiceImpl.signIn(username, password);
         HttpSession session = request.getSession();
         session.removeAttribute("user");
-        if(competitionManager!=null) {
-            session.setAttribute("user", competitionManager);
+        if(manager!=null) {
+            session.setAttribute("user", manager);
             if(request.getParameter("remember-me")!=null)
                 session.setMaxInactiveInterval(30*60);
             return "index";
@@ -54,14 +57,14 @@ public class CompetitionManagerController {
         competitionManager.setLastName(lastName);
         competitionManager.setCreateTime(new Date());
         competitionManager.setModifiedTime(competitionManager.getCreateTime());
-        competitionManager=competitionManagerServiceImpl.signUp(competitionManager);
+        manager=competitionManagerServiceImpl.signUp(competitionManager);
         HttpSession session = request.getSession();
-        if(competitionManager!=null) {
-            session.setAttribute("user", competitionManager);
+        if(manager!=null) {
+            session.setAttribute("user", manager);
             return "index";
         }
         else {
-            request.setAttribute("error", "username already exists");
+            request.setAttribute("error", "email already exists");
             return "register";
         }
     }
@@ -73,7 +76,7 @@ public class CompetitionManagerController {
         return "index";
     }
     
-    @RequestMapping(value="/toSignUp",method=RequestMethod.GET)
+    @RequestMapping(value="/toSignUp",method={ RequestMethod.GET, RequestMethod.POST })
     public String toSignUp(HttpServletRequest request) {
         return "register";
     }

@@ -20,7 +20,7 @@ public class CompetitionManagerServiceImpl implements CompetitionManagerService{
     @Override
     public CompetitionManager signIn(String username,String password) {
         manager=competitionManagerDao.getManagerByUsername(username);
-        if(password.equals(manager.getPassword()))
+        if(manager!=null&&password.equals(manager.getPassword()))
             return manager;
         return null;
     }
@@ -29,8 +29,9 @@ public class CompetitionManagerServiceImpl implements CompetitionManagerService{
     public CompetitionManager signUp(CompetitionManager competitionManager) {
         manager = competitionManagerDao.getManagerByUsername(competitionManager.getUsername());
         // if username is exist
-        if(manager!=null)
+        if(manager!=null) {
             return null;
+        }
         competitionManagerDao.insertManager(competitionManager);
         return competitionManager;
     }

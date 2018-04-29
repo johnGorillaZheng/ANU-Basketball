@@ -54,8 +54,9 @@
                         <div class="form-group row mt-4 col-12">
                             <a href="/anubasketball/CompetitionManager/toSignIn" class="btn form-control btn-info">Have an account? Go login</a>
                         </div>
-                        <input type="hidden" name="error" id="error" value="${error}"/>
                     </form>
+                     <label>${error}</label>
+                     <% request.removeAttribute("error");%>
                 </div>
                 <div class="card-footer"></div>
             </div>
@@ -75,11 +76,6 @@
                 if (password.value != password_confirm.value) {
                     set_alert("The confirmation of password should be as same as password");
                     password_confirm.focus();
-                    return false;
-                }
-                if(error.value!=null){
-                	set_alert("email already exists");
-                    email.focus();
                     return false;
                 }
                 return true;

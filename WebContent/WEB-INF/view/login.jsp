@@ -19,7 +19,7 @@
             <div class="card mt-5">
                 <h5 class="card-header">Login</h5>
                 <div class="card-body p-5">
-                    <form action="/anubasketball/CompetitionManager/signIn" method="post" class="">
+                    <form action="/anubasketball/CompetitionManager/signIn" method="post" class="" >
                         <div class="form-group row col-12">
                             <label for="email" class="sr-only">Email address</label>
                             <input type="email" name="email" id="email" class="form-control" placeholder="Email address" required="" autofocus="">
@@ -41,11 +41,15 @@
                     <div class="form-group row mt-4 col-12">
                             <button onclick="window.location.href='/anubasketball/CompetitionManager/toSignUp'" class="form-control btn-info">Have no account? Register now!</button>
                     </div>
+                    
+                     <label>${error}</label>
+                     <% request.removeAttribute("error");%>
                 </div>
                 <div class="card-footer"></div>
             </div>
         </div>
     </div>
+    
 </body>
 
 </html>
