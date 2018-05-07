@@ -2,9 +2,48 @@
 
 ## Project Audit 3 Landing Page
 
+## Contents for Audit 3
+
+1. [Value delivered to client](#1-value-delivered-to-client-until-audit-3)
+2. [Technical artefacts](#2-technical-artefacts-until-audit-3)
+3. [Relevant documentation](#3-relevant-documentation-until-audit-3)
+4. [Decision Making](#7-decision-making)
+
+## 1. Value delivered to client until Audit 3
+
+Since we have decided to change our direction from coding first to user research first, the group have done more and deeper user research, including investigating the stakeholders on what they really expected for our product and the real problem they have in the real-world situation so that what we deliver can be the real problem solver for our stakeholder. Our big team now is divided into 2 small team that one is reponsible for tracking the users requirements and expectations and the other is responsible for technical delivering to build up the final website for our client and stakeholders.
+
+So far, a series of detailed and specific user research have been finished thanks to our team and the help from our tutor Todd and mentor David and Zac. During these weeks, we have been familiar how the system should operate and we have output a seires of diagram to not only guide the following technical development but also the documents to track potential change of requirements of our clients.
+
+## 2. Technical artefacts until Audit 3
+
+We have started our programming work to transfer the result of user research to the real product. So far, we have finished the function of register and login based on our client's requirements. Here are the link to current website and our source code.
+
+   [Tentative website](https://anubasketball.azurewebsites.net/anubasketball/)
+
+   [Source code](https://github.com/Zihao-Liu/ANU-Basketball/tree/master/src)
+
+## 3. Relevant documentation until Audit 3
+
+|Type|Documents|
+|:---:|:---:|
+|Slides for audit|[slides](https://drive....SzwO3mWWnmY6F)|
+|Business overview|[Poster](https://drive....NhUPU4pIpCQs2)|
+||[Elevator pitch version 1.0](https://drive.google.com/open?id=1K9x4CBxNe8HBW576_Sk7qt9ZCYlYVdgA)|
+||[Business model version 1.0](https://drive.google.com/open?id=1bm1rOu2fxm2Os3siIxoegu2X53IRvSRb)|
+||[Business model canvas](https://drive.google.com/open?id=1IH90mzoprgniaRJw8vHh6W8UQCcn8uW-)|
+|Design|[Wireframe -prototype ](https://drive.google.com/open?id=12m43U4I7ZOXDJ0aFDTmXIYiHB0k_oQvpu5WxhGtesjE)|
+||[Value finder (validating pains) - user research](https://drive.google.com/open?id=1YKEbobQoy3nz80Zhd08WOAXscWvkCejq)|
+||[Playback and harvest version 1.0](https://drive.google.com/open?id=1EBmdJGF1qO0z5AJOlYPJ6FOGhO5enJpS)|
+|Mentor advice|[Zac meeting](https://drive.google.com/open?id=1M5v8aQuGdZBwStZdca37hF7NRh_QugVN)|
+||[David meeting](https://drive.google.com/open?id=1vXaK3X4It4Z9J1Rrx7V4I_HSn5l3OTGF)|
+|Research|[Technology research list ](https://drive.google.com/open?id=1TE4ZsUpef_j1vpEKDO24Sw_vEr4XaWUWlgecMkuKsUY)|
+
+---
+
 ## Project Audit 2 Landing Page
 
-## Content
+## Contents for Audit 2
 
 1. [Value delivered to client](#1-value-delivered-to-client)
 2. [Technical artefacts](#2-technical-artefacts)
@@ -19,15 +58,15 @@ So far, we have gathered all user requirements from our client, and finish some 
 
 1. Coding environment set up
 
-We use java and relevant tenology to develop our website. Since most of the team members are still learning java web development, we decide use the basic JSP + Servlet techniques to develop our website and use the other advanced framework like Spring MVC in the future to optimize our code. So we set up one most basic coding package for our development which has already been seen in this repository.
+    We use java and relevant tenology to develop our website. Since most of the team members are still learning java web development, we decide use the basic JSP + Servlet techniques to develop our website and use the other advanced framework like Spring MVC in the future to optimize our code. So we set up one most basic coding package for our development which has already been seen in this repository.
 
-   Tentative website: https://anubasketball.azurewebsites.net/anubasketball/
+   [Tentative website](https://anubasketball.azurewebsites.net/anubasketball/)
 
-   Source code: https://github.com/Zihao-Liu/ANU-Basketball/tree/master/src
+   [Source code](https://github.com/Zihao-Liu/ANU-Basketball/tree/master/src)
 
 2. Database Design -- ER diagram and DDL
 
-During the week 3 - 4, we spent our weekly meeting time to discuss about the structure of the database of our system. Since the system has lots of roles of users, we spent much energy to figure out the relationship between each of those. Finally, we came up with the [ER diagram](https://drive.google.com/open?id=1g7MCTPH4SlfDd-jZO8KmHQRD2yHxaGJi) and the [DDL](https://drive.google.com/open?id=1W4d1lYUqAocgBWZjAKJz6IAubUzfs7Va) to set up our database environment. This slides show how we run our discussion: [slides](https://drive.google.com/open?id=1aMd22UqM3z40_6MKiBZnILnb2l_NT9hs)
+    During the week 3 - 4, we spent our weekly meeting time to discuss about the structure of the database of our system. Since the system has lots of roles of users, we spent much energy to figure out the relationship between each of those. Finally, we came up with the [ER diagram](https://drive.google.com/open?id=1g7MCTPH4SlfDd-jZO8KmHQRD2yHxaGJi) and the [DDL](https://drive.google.com/open?id=1W4d1lYUqAocgBWZjAKJz6IAubUzfs7Va) to set up our database environment. This slides show how we run our discussion: [slides](https://drive.google.com/open?id=1aMd22UqM3z40_6MKiBZnILnb2l_NT9hs)
 
 ## 3. Relevant documentation
 
