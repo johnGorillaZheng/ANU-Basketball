@@ -2,12 +2,18 @@ CREATE SCHEMA `anubasketball` ;
 
 CREATE TABLE `anubasketball`.`competition_manager`(
 	pk_id int auto_increment,
+    gmt_create date not null,
+    gmt_modified date not null,
 	uk_username varchar(20) not null unique,
+    first_name varchar(20),
+    last_name varchar(20),
 	password varchar(20) not null,
 	primary key (pk_id));
 
 CREATE TABLE `anubasketball`.`competition` (
 	pk_id int auto_increment,
+    gmt_create date not null,
+    gmt_modified date not null,
     competition_name varchar(50) not null,
     logo_location text,
     season year not null,
@@ -21,6 +27,8 @@ CREATE TABLE `anubasketball`.`competition` (
     
 CREATE TABLE `anubasketball`.`team` (
 	pk_id int auto_increment,
+    gmt_create date not null,
+    gmt_modified date not null,
     uk_teamname varchar(50) not null unique,
     logo_location text,
     primary key (pk_id)
@@ -28,6 +36,8 @@ CREATE TABLE `anubasketball`.`team` (
 
 CREATE TABLE `anubasketball`.`record`(
 	pk_teamid int,
+    gmt_create date not null,
+    gmt_modified date not null,
     pk_competitionid int,
     gameplayed int default 0,
     won int default 0,
@@ -40,6 +50,8 @@ CREATE TABLE `anubasketball`.`record`(
 
 CREATE TABLE `anubasketball`.`person`(
 	pk_id int auto_increment,
+    gmt_create date not null,
+    gmt_modified date not null,
     person_name varchar(100) not null,
     gender varchar(10) not null,
     logo_location text,
@@ -50,6 +62,8 @@ CREATE TABLE `anubasketball`.`person`(
 CREATE TABLE `anubasketball`.`role_in_team`(
 	pk_personid int,
     pk_teamid int,
+    gmt_create date not null,
+    gmt_modified date not null,
     role varchar(10) not null,
     primary key(pk_personid,pk_teamid),
     foreign key(pk_personid)references person(pk_id),
@@ -59,6 +73,8 @@ CREATE TABLE `anubasketball`.`role_in_team`(
 
 CREATE TABLE `anubasketball`.`basketball_match`(
 	pk_id int auto_increment,
+    gmt_create date not null,
+    gmt_modified date not null,
     round int not null,
     match_date datetime,
     location text,
@@ -76,6 +92,8 @@ CREATE TABLE `anubasketball`.`basketball_match`(
 CREATE TABLE `anubasketball`.`role_in_match`(
 	pk_personid int,
     pk_matchid int,
+    gmt_create date not null,
+    gmt_modified date not null,
     role varchar(10) not null,
     primary key(pk_personid,pk_matchid),
     foreign key(pk_personid)references person(pk_id),
@@ -86,6 +104,8 @@ CREATE TABLE `anubasketball`.`role_in_match`(
 CREATE TABLE `anubasketball`.`teamside`(
 	pk_teamid int,
     pk_matchid int,
+    gmt_create date not null,
+    gmt_modified date not null,
     pk_is_host bool,
     primary key(pk_teamid, pk_matchid,pk_is_host),
     foreign key (pk_teamid) references team(pk_id),

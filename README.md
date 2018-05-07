@@ -4,12 +4,18 @@
 1. [Value delivered to client](#1-value-delivered-to-client)
 2. [Technical artefacts](#2-technical-artefacts)
 3. [Relevant documentation](#3-relevant-documentation)
+4. [Decision Making](#7-decision-making)
 <br/><br/>
 ## 1. Value delivered to client
 So far, we have gathered all user requirements from our client, and finish some basic design work (prototype and database). Since the project is still in the beginning state and we are still dealing with some basic problem like some ensuring what our client really wants and studying some relevant programming techniques. Although we have outputs lots of documentation and some technical artefact like some professional graph which would definitely guide the future development work, what we deliver to client is just illusrate that the team is in our progress and would finish each item in time as our plan has listed, so that our client would clearly know that his project can be done well and in time.
 ## 2. Technical artefacts
 1. Coding environment set up
 We use java and relevant tenology to develop our website. Since most of the team members are still learning java web development, we decide use the basic JSP + Servlet techniques to develop our website and use the other advanced framework like Spring MVC in the future to optimize our code. So we set up one most basic coding package for our development which has already been seen in this repository.
+   
+   Tentative website: https://anubasketball.azurewebsites.net/anubasketball/
+   
+   Source code: https://github.com/Zihao-Liu/ANU-Basketball/tree/master/src
+
 2. Database Design -- ER diagram and DDL
 During the week 3 - 4, we spent our weekly meeting time to discuss about the structure of the database of our system. Since the system has lots of roles of users, we spent much energy to figure out the relationship between each of those. Finally, we came up with the [ER diagram](https://drive.google.com/open?id=1g7MCTPH4SlfDd-jZO8KmHQRD2yHxaGJi) and the [DDL](https://drive.google.com/open?id=1W4d1lYUqAocgBWZjAKJz6IAubUzfs7Va) to set up our database environment. This slides show how we run our discussion: [slides](https://drive.google.com/open?id=1aMd22UqM3z40_6MKiBZnILnb2l_NT9hs)
 
